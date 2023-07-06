@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Allison! 
 - 😄 Pronouns: She/Her
-- ✨ I'm an aspiring software developer currently studying @ UWaterloo!
+- ✨ I'm an software engineer currently studying @ UWaterloo!
 - 📫 How to reach me: allison.tao@uwaterloo.ca
 
 <!--
